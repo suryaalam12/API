@@ -1,0 +1,147 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "judul": "Pro React 16",
+      "penulis": "Adam Freeman",
+      "publiser": "Apress",
+      "isbn": "9781484244517",
+      "harga": 25000,
+      "saldo": 100000,
+      "is_ready": true,
+      "gambar": "1.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "judul": "React 17 Design Patterns and Best Practices",
+      "penulis": "Carlos Santana Roldan",
+      "publiser": "Packt Publishing Ltd",
+      "isbn": "9781800561762",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "2.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-02",
+      "judul": "Learning React Native",
+      "penulis": "Bonnie Eisenman",
+      "publiser": "O'Reilly Media, Inc.",
+      "isbn": "9781491989098",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "3.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "judul": "Pro React 16",
+      "penulis": "Adam Freeman",
+      "publiser": "Apress",
+      "isbn": "9781484244517",
+      "harga": 25000,
+      "saldo": 100000,
+      "is_ready": true,
+      "gambar": "1.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "judul": "React 17 Design Patterns and Best Practices",
+      "penulis": "Carlos Santana Roldan",
+      "publiser": "Packt Publishing Ltd",
+      "isbn": "9781800561762",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "2.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-02",
+      "judul": "Learning React Native",
+      "penulis": "Bonnie Eisenman",
+      "publiser": "O'Reilly Media, Inc.",
+      "isbn": "9781491989098",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "3.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-02",
+      "judul": "Menguasai React JS Untuk Pemula",
+      "penulis": "Rohi Abdulloh",
+      "publiser": "Rohi Abdulloh",
+      "isbn": "-",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "4.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-02",
+      "judul": "React Native for Mobile Development",
+      "penulis": "Akshat Paul",
+      "publiser": "Apress",
+      "isbn": "9781484244548",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "5.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-02",
+      "judul": "Full-Stack React, TypeScript, and Node",
+      "penulis": "David Choi",
+      "publiser": "Packt Publishing Ltd",
+      "isbn": "9781839214691",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "6.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-02",
+      "judul": "React and React Native",
+      "penulis": "Adam Boduch",
+      "publiser": "Packt Publishing Ltd",
+      "isbn": "9781786469571",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "7.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-02",
+      "judul": "Your First Week With React",
+      "penulis": "Maria Antonietta Perna dkk.",
+      "publiser": "Maria Antonietta Perna",
+      "isbn": "9781492065302",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "8.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-02",
+      "judul": "React.js Essentials",
+      "penulis": "Artemij Fedosejev",
+      "publiser": "-",
+      "isbn": "1783551623",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "9.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "saldo": [
+    {
+      "amount": 100000
+    }
+  ],
+  "pesanans": []
+}
